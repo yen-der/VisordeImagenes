@@ -1,0 +1,22 @@
+C:\Users\ALEx\Desktop\Visor de imagenes\Visor de imagenes\bin\Debug\Visor de imagenes.exe.config
+C:\Users\ALEx\Desktop\Visor de imagenes\Visor de imagenes\bin\Debug\Visor de imagenes.exe
+C:\Users\ALEx\Desktop\Visor de imagenes\Visor de imagenes\bin\Debug\Visor de imagenes.pdb
+C:\Users\ALEx\Desktop\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.csproj.AssemblyReference.cache
+C:\Users\ALEx\Desktop\Visor de imagenes\Visor de imagenes\obj\Debug\Visor_de_imagenes.Properties.Resources.resources
+C:\Users\ALEx\Desktop\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.csproj.GenerateResource.cache
+C:\Users\ALEx\Desktop\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.csproj.CoreCompileInputs.cache
+C:\Users\ALEx\Desktop\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.exe
+C:\Users\ALEx\Desktop\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.pdb
+C:\Users\ALEx\Desktop\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.exe.config
+C:\Users\ALEx\Desktop\Visor de imagenes\Visor de imagenes\obj\Debug\Visor_de_Imagenes.Form1.resources
+C:\Users\lester\source\repos\Visor de imagenes\Visor de imagenes\bin\Debug\Visor de imagenes.exe.config
+C:\Users\lester\source\repos\Visor de imagenes\Visor de imagenes\bin\Debug\Visor de imagenes.exe
+C:\Users\lester\source\repos\Visor de imagenes\Visor de imagenes\bin\Debug\Visor de imagenes.pdb
+C:\Users\lester\source\repos\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.csproj.AssemblyReference.cache
+C:\Users\lester\source\repos\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.exe.config
+C:\Users\lester\source\repos\Visor de imagenes\Visor de imagenes\obj\Debug\Visor_de_Imagenes.Form1.resources
+C:\Users\lester\source\repos\Visor de imagenes\Visor de imagenes\obj\Debug\Visor_de_imagenes.Properties.Resources.resources
+C:\Users\lester\source\repos\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.csproj.GenerateResource.cache
+C:\Users\lester\source\repos\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.csproj.CoreCompileInputs.cache
+C:\Users\lester\source\repos\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.exe
+C:\Users\lester\source\repos\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.pdb
